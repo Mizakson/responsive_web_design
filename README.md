@@ -13,3 +13,6 @@ Project 2, cafe_menu (DONE)
 
 - html, css
 
+Project 3, css_color_markers (DONE)
+
+- html, css
