@@ -16,3 +16,7 @@ Project 2, cafe_menu (DONE)
 Project 3, css_color_markers (DONE)
 
 - html, css
+
+Project 4, registration_form (DONE)
+
+- html, css
