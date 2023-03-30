@@ -24,3 +24,7 @@ Project 4, registration_form
 Project 5, survey_form
 
 - html, css
+
+Project 6, rothko_painting
+
+-html, css
