@@ -5,6 +5,8 @@ the Responsive Web Design Certificate from FreeCodeCamp.
 
 Here is my progress so far...
 
+Module 1:
+
 Project 1, cat_photo_app
 
 - html
@@ -24,6 +26,8 @@ Project 4, registration_form
 Project 5, survey_form
 
 - html, css
+
+Module 2:
 
 Project 6, rothko_painting
 
