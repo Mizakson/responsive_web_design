@@ -32,3 +32,7 @@ Module 2:
 Project 6, rothko_painting
 
 -html, css
+
+Project 7, photo_gallery
+
+-html, css
