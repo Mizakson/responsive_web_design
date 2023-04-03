@@ -1,6 +1,6 @@
 # responsive_web_design
 
-This repo has all of my completed html and css projects while trying to earn 
+This repo has all of my completed projects while trying to earn 
 the Responsive Web Design Certificate from FreeCodeCamp.
 
 Here is my progress so far...
@@ -34,5 +34,9 @@ Project 6, rothko_painting
 -html, css
 
 Project 7, photo_gallery
+
+-html, css
+
+Project 8, nutrition_label
 
 -html, css
