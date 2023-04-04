@@ -40,3 +40,7 @@ Project 7, photo_gallery
 Project 8, nutrition_label
 
 -html, css
+
+Project 9, accessibility_survey
+
+-html, css
