@@ -1,0 +1,56 @@
+/* tribute_page stylesheet */
+/* path: module_2\tribute_page\styles.css */
+
+img {
+display: block;
+}
+
+.logo {
+justify-content: center;
+}
+
+#image {
+max-width: 100%;
+justify-content: center;
+}
+
+.tribute-info {
+text-align: center;
+}
+
+body {
+font-family: sans-serif;
+}
+
+figcaption {
+padding-top: 15px;
+text-align: center;
+font-size: 10px;
+}
+
+h1 {
+padding: 10px 5px;
+font-size: 25px;
+}
+
+p {
+padding: 5px 9px;
+}
+
+.stats {
+text-transform: uppercase;
+}
+
+.trophy {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+
+footer {
+padding-top: 20px;
+text-align: center;
+font-style: italic;
+}
