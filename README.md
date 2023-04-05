@@ -9,42 +9,30 @@ Module 1:
 
 Project 1, cat_photo_app
 
-- html
-
 Project 2, cafe_menu
-
-- html, css
 
 Project 3, css_color_markers
 
-- html, css
-
 Project 4, registration_form
-
-- html, css
 
 Project 5, survey_form
 
-- html, css
+
 
 Module 2:
 
 Project 6, rothko_painting
 
--html, css
-
 Project 7, photo_gallery
-
--html, css
 
 Project 8, nutrition_label
 
--html, css
-
 Project 9, accessibility_survey
-
--html, css
 
 Project 10, tribute_page
 
--html, css
+
+
+Module 3:
+
+Project 11, balance_sheet
