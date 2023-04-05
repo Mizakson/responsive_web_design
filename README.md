@@ -44,3 +44,7 @@ Project 8, nutrition_label
 Project 9, accessibility_survey
 
 -html, css
+
+Project 10, tribute_page
+
+-html, css
