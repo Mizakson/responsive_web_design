@@ -1,6 +1,6 @@
 # tribute_page
 
-Project 9 in FreeCodeCamp Responsive Web Design Certification.
+Project 10 in FreeCodeCamp Responsive Web Design Certification.
 
 This project passed the required tests to move on in the certification.
 
