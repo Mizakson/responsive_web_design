@@ -1,0 +1,52 @@
+/* technical_documentation_page  stylesheet */
+/* path: module_3\technical_documentation_page\styles.css */
+
+main {
+font-family: sans-serif;
+font-size: 12px;
+}
+
+section #introduction {
+padding-top: 100px;
+padding-bottom: 10px;
+}
+
+section {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+li {
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+header {
+font-size: 14px;
+font-weight: bold;
+}
+
+code {
+background-color:#F5F5DC;
+}
+
+.navbar
+{
+position: absolute;
+left: 0;
+top: 0;
+right: 0;
+}
+
+.nav-link {
+padding: 10px;
+}
+
+@media (min-width: 480px) {
+    #nav-bar {
+        width: 200px; float: left;
+        }
+    #main {
+        margin-left: 216px;
+        }
+}
