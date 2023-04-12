@@ -36,3 +36,9 @@ Project 10, tribute_page
 Module 3:
 
 Project 11, balance_sheet
+
+Project 12, picasso_painting
+
+Project 13, piano
+
+Project 14, technical documentation page
