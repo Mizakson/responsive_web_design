@@ -11,3 +11,7 @@ I learned more about linking elements using href statements and adding text frag
 For example <a class="menu_link" href="#home">Home</a>
 
 This example would go to the homepage after clicking the link on the text "Home".
+
+Best,
+
+Mizakson
