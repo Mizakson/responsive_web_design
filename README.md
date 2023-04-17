@@ -48,3 +48,11 @@ Project 14, technical documentation page
 Module 4:
 
 Project 15, city_skyline
+
+Project 16, magazine
+
+Project 17, product_landing_page
+
+
+
+Module 5: (WIP)
