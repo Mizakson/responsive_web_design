@@ -1,0 +1,57 @@
+/* product_landing_page stylesheet */
+/* path: module_4\product_landing_page\styles.css */
+
+html {
+    font-family: Trebuchet MS;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+  }
+  
+  #header-img {
+    width: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5px;
+  }
+  
+  #nav-bar {
+    position: fixed;
+    justify-content: center;
+    top: 0;
+  }
+  
+  .nav-link {
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: grey;
+  }
+  
+  h2 {
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  #video {
+    display: flex;
+  }
+  
+  section {
+    padding-top: 20px;
+    padding-bottom: 5px;
+  }
+  
+  @media (min-width: 480px) {
+      #nav-link {
+          width: 200px; float: center;
+          }
+      #main {
+          margin: auto;
+          }
+  }
