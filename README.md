@@ -55,4 +55,8 @@ Project 17, product_landing_page
 
 
 
-Module 5: (WIP)
+Module 5: 
+
+Project 18, ferris_wheel
+
+Project 19, penguin
