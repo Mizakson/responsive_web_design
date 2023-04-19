@@ -3,7 +3,7 @@
 This repo has all of my completed projects while trying to earn 
 the Responsive Web Design Certificate from FreeCodeCamp.
 
-Here is my progress so far...
+Certification Status: COMPLETED!
 
 Module 1:
 
